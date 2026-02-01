@@ -115,7 +115,7 @@ This Wiki has a stable structure that can grow over time without reorganization.
 * `07-analytics-studio/using-notebooks.md` *(TODO)*
 * `07-analytics-studio/prototyping-reports.md` *(TODO)*
 
-### 📚 Previous Workshops
+### 🛠️ Previous Workshops
 
 * `INTS-2024` *(TODO)*
 * `NCS-2025` *(TODO)*
