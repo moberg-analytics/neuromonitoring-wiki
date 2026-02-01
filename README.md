@@ -57,7 +57,7 @@ This allows the Wiki to remain a **living resource** rather than a static manual
 
 ## Table of contents
 
-This Wiki has a stable structure that can grow over time without reorganization.
+This Wiki has a stable structure that can grow over time. Suggestions for additional sections are welcome.
 
 ### 🟢 Welcome
 
@@ -117,10 +117,10 @@ This Wiki has a stable structure that can grow over time without reorganization.
 
 ### 🛠️ Previous Workshops
 
-* `08-workshops/ints-2024` *(TODO)*
+* [`08-workshops/ints-2024`](https://github.com/moberg-analytics/neuromonitoring-wiki/tree/main/08-workshops/ints-2024)
 * [`08-workshops/ncs-2025`](https://github.com/moberg-analytics/neuromonitoring-wiki/tree/main/08-workshops/ncs-2025)
 * [`08-workshops/icsd-2025`](https://github.com/moberg-analytics/neuromonitoring-wiki/tree/main/08-workshops/icsd-2025)
-* `08-workshops/anim-2025` *(TODO)*
+* `08-workshops/anim-2025` *(Coming March 2026)*
 
 ### 📚 Reference 
 
