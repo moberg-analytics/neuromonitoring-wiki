@@ -119,7 +119,7 @@ This Wiki has a stable structure that can grow over time without reorganization.
 
 * `08-workshops/ints-2024` *(TODO)*
 * [`08-workshops/ncs-2025`](https://github.com/moberg-analytics/neuromonitoring-wiki/tree/main/08-workshops/ncs-2025)
-* `08-workshops/icsd-2025` *(TODO)*
+* [`08-workshops/icsd-2025`](https://github.com/moberg-analytics/neuromonitoring-wiki/tree/main/08-workshops/icsd-2025)
 * `08-workshops/anim-2025` *(TODO)*
 
 ### 📚 Reference 
