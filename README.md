@@ -77,6 +77,10 @@ This Wiki has a stable structure that can grow over time without reorganization.
 * `02-signals/abp.md` *(TODO)*
 * `02-signals/cpp.md` *(TODO)*
 * `02-signals/eeg.md` *(TODO)*
+* `02-signals/tcd.md` *(TODO)*
+* `02-signals/dcs.md` *(TODO by @farah)*
+* `02-signals/cw-nirs.md` *(TODO by @farah)*
+* `02-signals/tr-nirs.md` *(TODO by @farah)*
 
 ### ⚠️ Artefacts and Data Quality 
 
