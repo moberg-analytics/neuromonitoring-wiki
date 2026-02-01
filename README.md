@@ -99,6 +99,9 @@ This Wiki has a stable structure that can grow over time without reorganization.
 
 * `05-algorithms/prx.md` *(TODO)*
 * `05-algorithms/cppopt.md` *(TODO)*
+* `05-algorithms/cox.md` *(TODO)*
+* `05-algorithms/mapopt.md` *(TODO)*
+* `05-algorithms/hrv.md` *(TODO)*
 
 ### 🔬 Clinical & Research Workflows
 
