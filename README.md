@@ -4,7 +4,7 @@ The **Neuromonitoring Analytics Wiki** is a curated, open, and evolving knowledg
 
 Its purpose is to help clinicians, researchers, and engineers **interpret neuromonitoring signals responsibly**, recognize artefacts and limitations, and understand how derived analytics are computed and used—before those analytics are applied in research or clinical workflows.
 
-This Wiki is **educational**, not prescriptive. It does not provide treatment recommendations or replace clinical judgment.
+This Wiki is for educational purposes only. It does not provide treatment recommendations or replace clinical judgment.
 
 ## What this Wiki covers
 
