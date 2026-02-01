@@ -73,6 +73,7 @@ This Wiki has a stable structure that can grow over time without reorganization.
 
 ### 📈 Signals
 
+* [`02-signals/overview.md`](https://github.com/moberg-analytics/neuromonitoring-wiki/blob/main/02-signals/overview.md)
 * `02-signals/icp.md` *(TODO)*
 * `02-signals/abp.md` *(TODO)*
 * `02-signals/cpp.md` *(TODO)*
