@@ -57,7 +57,7 @@ This allows the Wiki to remain a **living resource** rather than a static manual
 
 ## Table of contents
 
-This repository is organized to prioritize **artefacts and data quality** first, with a stable structure that can grow over time without reorganization.
+This Wiki has a stable structure that can grow over time without reorganization.
 
 ### 🟢 Welcome
 
@@ -71,20 +71,20 @@ This repository is organized to prioritize **artefacts and data quality** first,
 * `01-foundations/trends-vs-waveforms.md` *(TODO)*
 * `01-foundations/multimodal-context.md` *(TODO)*
 
-### ⚠️ Artefacts and Data Quality 
-
-* [`02-artifacts/overview.md`](02-artifacts/overview.md)
-* `02-artifacts/pattern-library.md` *(TODO)*
-* `02-artifacts/icp-artifacts.md` *(TODO)*
-* `02-artifacts/abp-artifacts.md` *(TODO)*
-* `02-artifacts/eeg-artifacts.md` *(TODO)*
-
 ### 📈 Signals
 
-* `03-signals/icp.md` *(TODO)*
-* `03-signals/abp.md` *(TODO)*
-* `03-signals/cpp.md` *(TODO)*
-* `03-signals/eeg.md` *(TODO)*
+* `02-signals/icp.md` *(TODO)*
+* `02-signals/abp.md` *(TODO)*
+* `02-signals/cpp.md` *(TODO)*
+* `02-signals/eeg.md` *(TODO)*
+
+### ⚠️ Artefacts and Data Quality 
+
+* [`03-artifacts/overview.md`](03-artifacts/overview.md)
+* `03-artifacts/pattern-library.md` *(TODO)*
+* `03-artifacts/icp-artifacts.md` *(TODO)*
+* `03-artifacts/abp-artifacts.md` *(TODO)*
+* `03-artifacts/eeg-artifacts.md` *(TODO)*
 
 ### 📊 Displays
 
