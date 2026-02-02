@@ -1,3 +1,10 @@
+Title: Signals and Sampling in Continuous Neuromonitoring \
+Applies to: MCP, ICM+, CNS Monitor \
+Status: Draft \
+Last reviewed: 1 Feb 2026 \
+Reviewed by: Ethan Jacob Moyer \
+Audience: Clinician | Researcher | Engineer
+
 # Signals and Sampling in Continuous Neuromonitoring
 
 ## 1. Overview
