@@ -61,7 +61,7 @@ This Wiki has a stable structure that can grow over time. Suggestions for additi
 
 ### 🧠 Foundations
 
-* `01-foundations/signals-and-sampling.md` *(TODO)*
+* [`01-foundations/signals-and-sampling.md`](https://github.com/moberg-analytics/neuromonitoring-wiki/blob/main/01-foundations/signals-and-sampling.md)
 * `01-foundations/trends-vs-waveforms.md` *(TODO)*
 * `01-foundations/multimodal-context.md` *(TODO)*
 
