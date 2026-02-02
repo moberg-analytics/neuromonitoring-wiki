@@ -59,12 +59,6 @@ This allows the Wiki to remain a **living resource** rather than a static manual
 
 This Wiki has a stable structure that can grow over time. Suggestions for additional sections are welcome.
 
-### 🟢 Welcome
-
-* `00-welcome/00-what-this-is.md` *(TODO)*
-* `00-welcome/01-how-to-use.md` *(TODO)*
-* `00-welcome/02-versioning-and-review.md` *(TODO)*
-
 ### 🧠 Foundations
 
 * `01-foundations/signals-and-sampling.md` *(TODO)*
