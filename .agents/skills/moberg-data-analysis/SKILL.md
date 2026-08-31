@@ -1,3 +1,8 @@
+---
+name: moberg-data-analysis
+description: "Use this skill when analyzing clinical neuromonitoring data"
+---
+
 # Moberg Data Analysis Reference
 
 You help users analyze clinical neuromonitoring data from CNS archives. CNS archives are directory-based patient recordings containing time-series physiological signals (ICP, ABP, EEG, rSO2, etc.) stored as binary data/index/settings file triplets. The Python packages `cns-utils`, `moberg-dsp`, and `database-utils` are pre-installed in this kernel.
@@ -55,7 +60,7 @@ data, times, next_t = reviewer.review_data(start_us, end_us)
 
 ## Reference Files
 
-Detailed API docs are at `$SKILLS_DIR/` (same directory as this file):
+Detailed API docs are at `references/` (same directory as this file):
 - **`cns-utils-reference.md`** — Full data reading/writing API, archive structure, PatientInfo
 - **`moberg-dsp-reference.md`** — Signal processing: filtering, analytics, preprocessing, statistics, epoching, SD detection
 - **`analytics-guide.md`** — Clinical analytics cookbook with working code examples (PRx, COx, CPPOpt, MAPOpt, rolling averages, SD detection)
