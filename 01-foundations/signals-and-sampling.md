@@ -257,4 +257,3 @@ Identical algorithms may yield different outputs across datasets due solely to s
 3. Textbook of Neurocritical Care
 4. Neurocritical Care Society consensus statements on multimodality monitoring
 5. Panerai RB. “Assessment of cerebral autoregulation.” *Physiol Meas.*
-6. Claassen J et al. “Multimodality monitoring in neurocritical care.” *Lancet Neurology*
